@@ -1,0 +1,1 @@
+module.expots.add = (a, b) => a + b;
